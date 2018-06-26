@@ -1,0 +1,125 @@
+
+.first
+{
+	background-color:red;
+	width:50%;
+	height:770px;
+	margin-top:2px;
+}
+.second
+{
+	background-color:blue;
+	width:50%;
+	height:770px;
+	margin-top:2px;
+}
+.third
+{
+	background-color:skyblue;
+	width:33%;
+	height:770px;
+	margin:1px;
+}
+.Galle-ry
+{
+    margin: 0px;
+    border: 5px solid #ecece;
+    float: left;
+    width: 50%;
+}
+.Galle-ry img
+{
+	width: 100%;
+    height: auto;
+	border: 5px solid black;
+}
+.doc
+{
+	text-align: center;
+}
+.tab-content p
+{
+	background-color:#222222; 
+	color:white; 
+	text-align: justify;
+	    padding: 10px;
+}
+.well
+{
+	margin-top: -20px !important;
+}
+
+.head
+{
+	padding: 0px;
+	margin-top: -40px;
+}
+.nav-tabs li a
+{
+	color: #bbdb7e;
+}
+
+.pull-left img
+{
+	border-radius: 10px;
+}
+.pull-left
+{
+	border: 1px solid #d2cdbe;
+	border-radius: 10px;
+}
+.part
+{
+	text-align: justify;
+}
+
+.img-no-2 img
+{
+	border-radius: 5px;
+}
+#text-all
+{
+	color:#333333;
+}
+
+
+
+.footer
+{
+	background-color:#363636;
+}
+.footer-text h4, li a, strong, p, label
+{
+	color:white;
+}
+.footer-IDs a  
+{
+	color:#b9dd7d;
+}
+.copy-right
+{
+    background-color:#303030;
+}
+.copyright a
+{
+	color:#b9dd7d;
+	
+}
+/* Extra small devices (phones, less than 768px) */
+/* Small devices (tablets, 768px and up) */
+/* Medium devices (desktops, 992px and up) */
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 240px) and (max-width: 480px) 
+{
+.slide
+{
+	margin-top:60px;
+}	
+.footer
+{
+	font-size:12px;
+}	
+	
+
+
+}
